@@ -41,10 +41,7 @@ const WhoAreWe = () => {
         {" "}
         Weather Application
       </Typography>
-      <Typography variant="body" color="primary" paragraph>
-        {" "}
-        Powred by Younes Bouchbouk{" "}
-      </Typography>
+      
       <hr />
       <BottomNavigation
         variant="Outlined"
